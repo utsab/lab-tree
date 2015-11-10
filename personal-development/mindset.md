@@ -51,5 +51,3 @@ After you've gotten a glimpse of the lay of the land, go back and spend more tim
 ## Release 3: Reflect
 
 Reflecting is essential for solidifying your learning. You will be expected to complete a reflection for each challenge during the 2-week trial period. It will help you learn how you learn and help me gauge your progress.  For this challenge, reflect on which topics seemed the most relevant to you.  Which topics took you furthest out of your comfort zone?  Are there any habits you can see yourself implementing in the next 2 weeks? 
-
-
