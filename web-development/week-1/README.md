@@ -1,8 +1,8 @@
 #Week 1
 
-###Computer Setup
+###[Commandline](./commandline.md)
 
-###Commandline
+###Computer Setup
 
 ###Git
 

@@ -25,7 +25,6 @@ Unfortunately, learning the commandline requires a lot of rote memorization and 
 
 
 ## Release 1: Read 
-
 Read *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html). Most of the book should be available online for free. 
 
 Warning: The writing is a bit dense, so don't worry if you don't understand every idea.  Just get the gist of it.  
