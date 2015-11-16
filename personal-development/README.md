@@ -1,12 +1,6 @@
 #Personal Development 
 
-###[Mindset](./mindset.md)
-
-###Empathy
-
-###Social Freedom
-
-###Health Habits
+###[How to Build a Habit](./habits.md)
 
 
 
