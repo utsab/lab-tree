@@ -5,11 +5,14 @@ After meeting many successful entrepreneurs, I've found a few major traits which
 
 ## Release 0: How to build a habit
 
-Charles Dugigg wrote an excellent book, "The Power of Habit", which explains the concept of "Keystone habits" -- i.e. a habit which spills over and has a ripple effect on other parts of your life.   
+Charles Dugigg wrote an excellent book, "The Power of Habit".  Watch this interview to get an overview of the book: 
 
-[Interview with Charles Duhigg](https://www.youtube.com/watch?v=C8XG02das-A)
+[Interview with Charles Duhigg](https://www.youtube.com/watch?v=voX0gUn_JOI )
 
-BJ Fogg is a behavior science researcher at Stanford who has contributed a lot to our understanding of building habits.  
+
+## Release 1: Fogg Method
+
+BJ Fogg is a behavior science researcher at Stanford who has contributed a lot to our understanding of building habits.  Watch/Read the following resources to understand the Fogg Method.  We'll be using this method extensively to build new habits: 
 
 [Tiny Habits](https://www.youtube.com/watch?v=AdKUJxjn-R8)
 [Fogg method](http://www.foggmethod.com/)
