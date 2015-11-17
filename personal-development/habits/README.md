@@ -1,6 +1,6 @@
 #How to build a Habit
 
-After meeting many successful entrepreneurs, I've found a few major traits which are shared by the ones who succeed.  At their core, these successful traits boil down to a set of habits.  In the first week, we'll first be learning a model for how to create a new habit, and then we'll take a look at the first mental habit which will be vital to your success as an entrepreneur: "clearheadedness". 
+I've found a few major traits which are shared by the successful entrepreneurs.  At their core, these successful traits boil down to a set of habits.  In the first week, we'll first be learning a model for how to create a new habit, and then we'll practice this skill on a habit of your choice. 
 
 
 ## Release 0: How to build a habit
@@ -19,4 +19,4 @@ BJ Fogg is a behavior science researcher at Stanford who has contributed a lot t
 
 ## Exercises
 
-Complete the exercises in exercises.md and email the answers to utsab.k.saha@gmail.com
+Complete the exercises in [exercises.md](./exercises.md) and email the answers to utsab.k.saha@gmail.com
