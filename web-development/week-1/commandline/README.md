@@ -5,7 +5,7 @@ Getting familiar with your commandline will be vital to your success as a progra
 
 ##Release 0
 
-Go through the following course.  Instead of using the flash cards approach which it recommends, I recommend keeping a sticky note attached to your computer monitor.  Every day, write down one new commmand or option you are curious to try, and then make it a point to use it a few times that day. 
+Go through the following course.  The course recommends using flash cards to memorize the commands, which is ok.  But I recommend keeping a sticky note attached to your computer monitor.  Every day, write down one new commmand or option you are curious to try, and then make it a point to use it a few times that day. 
 
 [Command Line Course](http://cli.learncodethehardway.org/book/) 
 
