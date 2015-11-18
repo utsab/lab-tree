@@ -8,14 +8,14 @@
 * What is the difference between "../ " and "./" (Hint: try them out in your terminal if you're not sure)
 
 * Do you remember what the following commands do off the top of your head?
- -pwd
- -cd
- -help
- -exit
- -mv 
- -touch 
- -mkdir 
- -echo 
+ *pwd
+ *cd
+ *help
+ *exit
+ *mv 
+ *touch 
+ *mkdir 
+ *echo 
 
 
 * Use the man pages to find one "option" that looks interesting/useful to you for each of the following commands.  Write an explanation of what the command/option does. 
