@@ -17,6 +17,7 @@
  -mkdir 
  -echo 
 
+
 * Use the man pages to find one "option" that looks interesting/useful to you for each of the following commands.  Write an explanation of what the command/option does. 
 -ls 
 -grep 
