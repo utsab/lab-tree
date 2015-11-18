@@ -1,4 +1,4 @@
-# Building Habits Reflection
+# Building Habits Exercises
 
 * Explain cue-routine-reward
 
