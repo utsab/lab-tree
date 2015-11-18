@@ -11,12 +11,7 @@ Go through the following course.  Instead of using the flash cards approach whic
 
 
 
-## Release 1: History of bash
-
-Read *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html).   
-
-
-## Release 2: Exercises
+## Release 1: Exercises
 
 Fill out the exercises in [exercises.md](./exercises.md) and email the answers to utsab.k.saha@gmail.com
 

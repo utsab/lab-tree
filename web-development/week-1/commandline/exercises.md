@@ -1,7 +1,7 @@
 # Command Line Exercises
 
 
-* What is "bash"?  What is shell? 
+* What is "bash"?  What is shell?  (Hint: Read *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html).) for a quick history lesson on bash)
 
 * What strategy will you use to learn/practice the commands? 
 
