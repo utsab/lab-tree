@@ -1,19 +1,18 @@
 # Command Line Exercises
 
 
-* What is "bash"?  What is shell?  (Hint: Read *Learning the Bash Shell* [Chapter 1](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html)) for a quick history lesson on bash)
+* What is "bash"?  What is shell?  (Hint: Read [this](https://www.safaribooksonline.com/library/view/learning-the-bash/0596009658/ch01.html)) for a quick history lesson on bash)
 
 * What strategy will you use to learn/practice the commands? 
 
 * What is the difference between "../ " and "./" (Hint: try them out in your terminal if you're not sure)
 
 * Do you remember what the following commands do off the top of your head?
-
-- pwd
-- cd
-- help
-- exit
-- mv 
+-pwd
+-cd
+-help
+-exit
+-mv 
 -touch 
 -mkdir 
 -echo 
