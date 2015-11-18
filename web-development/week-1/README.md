@@ -1,6 +1,6 @@
 #Week 1
 
-###[Commandline](./commandline.md)
+###[Commandline](./commandline)
 
 ###Computer Setup
 
