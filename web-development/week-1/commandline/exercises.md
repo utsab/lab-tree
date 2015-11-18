@@ -8,7 +8,7 @@
 * What is the difference between "../ " and "./" (Hint: try them out in your terminal if you're not sure)
 
 * Do you remember what the following commands do off the top of your head?
--pwd
+**pwd
 -cd
 -help
 -exit
