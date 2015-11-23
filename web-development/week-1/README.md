@@ -2,7 +2,7 @@
 
 ###[Commandline](./commandline)
 
-###Computer Setup
+###[Computer Setup](./computer_setup)
 
 ###Git
 
