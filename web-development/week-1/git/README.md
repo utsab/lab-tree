@@ -12,6 +12,8 @@ Read the following resources:
 
 ## Release 1: Exercises
 
+Complete the exercises in [exercises.md](./exercises.md)
+
 
 
 
