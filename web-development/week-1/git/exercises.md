@@ -8,6 +8,12 @@ Explain what each of the following steps does to a non-technical person
 
 * git checkout -b my-feature-branch
 
+* git add . 
+
+* git commit -m "my commit message" 
+
+* git push origin my-feature-branch
+
 ## Exercise 2: What are the three states of a file in git?  
 
 ## Exercise 3: Explain Git worfklow for sharing your code with others 
