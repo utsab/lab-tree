@@ -4,5 +4,5 @@
 
 ###[Computer Setup](./computer_setup)
 
-###Git
+###[Git](./git)
 
