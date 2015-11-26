@@ -8,6 +8,8 @@ Explain what each of the following steps does to a non-technical person
 
 * git checkout -b my-feature-branch
 
+* git diff 
+
 * git add . 
 
 * git commit -m "my commit message" 
