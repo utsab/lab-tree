@@ -5,7 +5,7 @@ Welcome to Lean Labs!  You will be learning the skills necessary to put "Lean St
 
 ## [Personal Development] (./personal-development)
 
-## [Web Development](./web-development/week-1) 
+## [Web Development](./web-development/) 
 
 ## UX Design
 
