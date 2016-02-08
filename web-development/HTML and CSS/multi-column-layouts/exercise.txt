@@ -1,0 +1,20 @@
+ray_branch
+
+
+
+Find a website with a multi-column layout.  Explain the strategy they use to build their layout.  Is it fluid or fixed?  How do they create the gutters?  How do they add padding around the content.
+
+https://umdearborn.edu/about
+This site used a multi column layout, combined with box-sizing: border-box; to place some pictures on the page. Elements on the page are both fluid (links/input at the top) while the pictures are fixed (using a min/max width property to determine if a picture will show up on the page). Gutters are created using the padding property.
+
+
+
+
+
+
+What is a situation where you would want to employ a max-width property on a column?  min-width?  
+
+When designing a fluid webpage that allows for easy viewing on a number of different screen sizes. Setting the max (and min) width properties can be extremely helpful in deciding what elements will end up where.
+
+
+
